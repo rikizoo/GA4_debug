@@ -3,6 +3,7 @@ GA4、GTMの検証環境を構築する
 
 ## 環境構築
 https://qiita.com/at-sacai/items/cdb189996cbbacfc51e6
+https://rikizoo.github.io/GA4_debug/
 
 ## 実装
 <details>
