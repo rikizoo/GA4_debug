@@ -26,7 +26,7 @@ GA4、GTMの検証環境を構築する
   ### GTM
   1. utmパラメータを取得するためのカスタム変数を作成する(ユーザ定義変数のカスタムJavascript)</br><img width="983" height="365" alt="image" src="https://github.com/user-attachments/assets/a8b28172-a81e-4752-8e65-1526cc9b308d" />
   2. 1で取得した値が各種イベントをトリガーとしたイベントパラメータとして送信されるように設定</br><img width="945" height="709" alt="image" src="https://github.com/user-attachments/assets/688342e4-fe4a-4d41-90c2-5a768aa8aec6" />
-  3. プレビューutmパラメータを追加したURLを開き、想定通りの値が入っているか確認する</br><img width="655" height="477" alt="image" src="https://github.com/user-attachments/assets/78e141bd-12e7-4967-8a6e-8117dfbe22fa" /></br><img width="1193" height="618" alt="image" src="https://github.com/user-attachments/assets/d39bed7a-0c44-483b-9dc3-5003d2916f3b" />
+  3. プレビューでutmパラメータを追加したURLを開き、想定通りの値が入っているか確認する</br><img width="655" height="477" alt="image" src="https://github.com/user-attachments/assets/78e141bd-12e7-4967-8a6e-8117dfbe22fa" /></br><img width="1193" height="618" alt="image" src="https://github.com/user-attachments/assets/d39bed7a-0c44-483b-9dc3-5003d2916f3b" />
   
   ### GA4
   1. GTMで送信したイベントパラメータをカスタムディメンションとして定義する
